@@ -1,0 +1,40 @@
+Form
+[
+	background-color: rgb(20, 20, 20);
+]
+
+hotkey_0, hotkey_1, hotkey_2, hotkey_3, hotkey_4, hotkey_5, hotkey_6, hotkey_7,
+hotkey_8, hotkey_9, hotkey_add, hotkey_sub, hotkey_mul, hotkey_div, hotkey_percent,
+hotkey_equal, hotkey_dot, hotkey_left_br, hotkey_right_br, hotkey_exp, hotkey_pi,
+hotkey_clear, hotkey_calc, hotkey_backspace, hotkey_fact, hotkey_pow, hotkey_root,
+hotkey_lg, hotkey_log, hotkey_ln, hotkey_ctg, hotkey_tg, hotkey_sin, hotkey_cos
+[
+	color: rgb(255, 255, 255);
+]
+
+lbl_0, lbl_1, lbl_2, lbl_3, lbl_4, lbl_5, lbl_6, lbl_7,
+lbl_8, lbl_9, lbl_add, lbl_sub, lbl_mul, lbl_div, lbl_percent,
+lbl_equal, lbl_dot, lbl_left_br, lbl_right_br, lbl_exp, lbl_pi,
+lbl_clear, lbl_calc, lbl_backspace, lbl_fact, lbl_pow, lbl_root,
+lbl_lg, lbl_log, lbl_ln, lbl_ctg, lbl_tg, lbl_sin, lbl_cos
+[
+	color: rgb(255, 255, 255);
+]
+
+btn_accept, btn_default_settings
+[
+	QPushButton {
+		color: rgb(255, 255, 255);
+		border: 1px solid #fff;
+		border-radius: 2px;
+		background-color: rgb(120, 120, 120);
+	}
+	QPushButton:hover {
+		color: rgb(255, 255, 255);
+		background-color: rgb(100, 100, 100);
+	}
+	QPushButton:pressed {
+		color: rgb(255, 255, 255);
+		background-color: rgb(50, 50, 50);
+	}
+]

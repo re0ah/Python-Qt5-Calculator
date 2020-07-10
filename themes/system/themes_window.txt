@@ -1,0 +1,30 @@
+Form
+[
+
+]
+
+pushbtn_accept
+[
+	QPushButton {
+
+	}
+	QPushButton:hover {
+
+	}
+	QPushButton:pressed {
+
+	}
+]
+
+list
+[
+	QListWidget {
+
+	}
+	QListWidget::item {
+
+	}
+	QListWidget::item:selected {
+
+	}
+]

@@ -1,0 +1,28 @@
+Form
+[
+	background-color: rgb(20, 20, 20);
+]
+
+
+display
+[
+	color: rgb(238, 238, 238);
+]
+
+btn_clear
+[
+	QPushButton {
+		color: rgb(255, 255, 255);
+		border: 1px solid #fff;
+		border-radius: 2px;
+		background-color: rgb(120, 120, 120);
+	}
+	QPushButton:hover {
+		color: rgb(255, 255, 255);
+		background-color: rgb(100, 100, 100);
+	}
+	QPushButton:pressed {
+		color: rgb(255, 255, 255);
+		background-color: rgb(50, 50, 50);
+	}
+]

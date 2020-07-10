@@ -1,0 +1,44 @@
+Form
+[
+
+]
+
+pushbtn_0, pushbtn_1, pushbtn_2, pushbtn_3, pushbtn_4, pushbtn_5,
+pushbtn_6, pushbtn_7, pushbtn_8, pushbtn_9, pushbtn_add, pushbtn_clear,
+pushbtn_div, pushbtn_dot, pushbtn_equal, pushbtn_exp, pushbtn_mul,
+pushbtn_percent, pushbtn_pi, pushbtn_sub, pushbtn_backspace,
+pushbtn_cos, pushbtn_ctg, pushbtn_fact, pushbtn_left_br, pushbtn_lg,
+pushbtn_ln, pushbtn_log, pushbtn_pow, pushbtn_right_br, pushbtn_root,
+pushbtn_sin, pushbtn_sqr, pushbtn_tg, pushbtn_history, pushbtn_hotkeys,
+pushbtn_themes
+[
+	QPushButton {
+
+	}
+	QPushButton:hover {
+
+	}
+	QPushButton:pressed {
+
+	}
+]
+
+entry_line, rdbtn_deg, rdbtn_rad, spinbox_num_sys
+[
+
+]
+
+result_field
+[
+
+]
+
+lbl_num_sys
+[
+
+]
+
+line, line_2
+[
+
+]
